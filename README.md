@@ -3,7 +3,7 @@
 I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about FPGA development, from RTL coding to hardware implementation. 
 
 ## What I Work With
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=for-the-badge&logo=verilog&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Verilog-blue)
 ![Static Badge](https://img.shields.io/badge/SystemVerilog-inactive) 
 ![Static Badge](https://img.shields.io/badge/GTKWave-grey) 
 ![Static Badge](https://img.shields.io/badge/ModelSim-yellow)

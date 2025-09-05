@@ -4,6 +4,11 @@
 ## About Me
 I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about FPGA development, from RTL coding to hardware implementation. 
 
+## 🚀Interests
+- FPGA design and digital logic optimization
+- RTL simulation and waveform analysis
+- Implementing and testing designs on hardware boards
+  
 ## 🛠What I Work With
 ![Static Badge](https://img.shields.io/badge/Verilog-blue)
 ![Static Badge](https://img.shields.io/badge/SystemVerilog-inactive) 

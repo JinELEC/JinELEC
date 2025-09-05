@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Jinkyu Lee
 
+## About Me
 I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about FPGA development, from RTL coding to hardware implementation. 
 
 ## 🛠What I Work With

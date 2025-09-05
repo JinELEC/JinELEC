@@ -1,7 +1,4 @@
-<p align="center">
-  ##Hi there 👋 I'm Jinkyu Lee
-</p>
-
+<h2 align="center">Hi there 👋 I'm Jinkyu Lee</h2>
 
 ## About Me
 I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about FPGA development, from RTL coding to hardware implementation. 

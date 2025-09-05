@@ -19,7 +19,6 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 ![Static Badge](https://img.shields.io/badge/Xilinx%20Artix--7-orange)
 
 ![JinELEC](https://github-readme-stats.vercel.app/api?username=JinELEC&show_icons=true&theme=graywhite)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinELEC&layout=compact&theme=graywhite)
 
 ## 🌐Connect with me

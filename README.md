@@ -7,6 +7,7 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 ## 🛠What I Work With
 ![Static Badge](https://img.shields.io/badge/Verilog-blue)
 ![Static Badge](https://img.shields.io/badge/SystemVerilog-inactive) 
+![Static Badge](https://img.shields.io/badge/C-purple)
 ![Static Badge](https://img.shields.io/badge/GTKWave-grey) 
 ![Static Badge](https://img.shields.io/badge/ModelSim-yellow)
 ![Static Badge](https://img.shields.io/badge/Vivado-green)

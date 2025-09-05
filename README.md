@@ -12,4 +12,4 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 
 ![JinELEC](https://github-readme-stats.vercel.app/api?username=JinELEC&show_icons=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinELEC&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=JinELEC&show_icons=true&theme=graywhite)

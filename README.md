@@ -16,5 +16,5 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinELEC&layout=compact&theme=graywhite)
 
 ## Connect with me
-![Static Badge](https://img.shields.io/badge/Linkedin-blue)(www.linkedin.com/in/jinkyu-lee-a8541124a)
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue)](www.linkedin.com/in/jinkyu-lee-a8541124a)
 

@@ -1,5 +1,5 @@
 <p align="center">
-  ## Hi there 👋 I'm Jinkyu Lee
+  ##Hi there 👋 I'm Jinkyu Lee
 </p>
 
 

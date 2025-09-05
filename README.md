@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size:60px;">Hi there 👋 I'm Jinkyu Lee</h2>
+<h2 align="center">Hi there 👋 I'm Jinkyu Lee</h2>
 
 
 ## About Me

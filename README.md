@@ -10,4 +10,4 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 ![Static Badge](https://img.shields.io/badge/Vivado-green)
 ![Static Badge](https://img.shields.io/badge/Xilinx%20Artix--7-orange)
 
-![JinELEC](https://github-readme-stats.vercel.app/api?username=JinELEC&show_icons=true&theme=merko)
+![JinELEC](https://github-readme-stats.vercel.app/api?username=JinELEC&show_icons=true&theme=algolia)

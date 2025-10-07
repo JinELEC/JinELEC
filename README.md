@@ -2,12 +2,14 @@
 
 
 ## About Me
-I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about FPGA development, from RTL coding to hardware implementation. 
+I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about **hardware verification**, FPGA development, and RTL design, from testbench simulation to functional verification.
 
-## 🚀Interests
-- FPGA design and digital logic optimization
-- RTL simulation and waveform analysis
-- Implementing and testing designs on hardware boards
+
+## 🚀 Interests
+- FPGA design and RTL verification
+- SystemVerilog testbench development and waveform analysis
+- Functional and timing verification on hardware boards
+
   
 ## 🛠What I Work With
 ![Static Badge](https://img.shields.io/badge/Verilog-blue)

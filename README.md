@@ -8,7 +8,7 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 ## 🚀 Interests
 - FPGA design and RTL verification
 - SystemVerilog testbench development and waveform analysis
-- Functional and timing verification on hardware boards
+- Functional and timing verification on FPGA boards
 
   
 ## 🛠What I Work With

@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about hardware design, verification, and FPGA development
+I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about hardware design, verification, and FPGA development.
 
 
 ## 🚀 Interests

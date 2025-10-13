@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about design verification, FPGA development, and RTL design, from testbench simulation to functional verification.
+I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about hardware design, verification, FPGA development, and validation.
 
 
 ## 🚀 Interests

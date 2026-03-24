@@ -1,8 +1,5 @@
-<h2 align="center">👋 I'm Jinkyu Lee</h2>
-
-
 ## About Me
-I'm a second-year **Electronic Engineering** student at the University of Southampton, passionate about hardware design, verification, and FPGA development.
+**Electronic Engineering** student at the University of Southampton, passionate about hardware design, verification, and FPGA development.
 
 
 ## 🚀 Interests
@@ -19,8 +16,3 @@ I'm a second-year **Electronic Engineering** student at the University of Southa
 ![Static Badge](https://img.shields.io/badge/ModelSim-yellow)
 ![Static Badge](https://img.shields.io/badge/Vivado-green)
 ![Static Badge](https://img.shields.io/badge/Xilinx%20Artix--7-orange)
-
-## 🌐Connect with me
-[![Static Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/jinkyu-lee-a8541124a)
-
-
